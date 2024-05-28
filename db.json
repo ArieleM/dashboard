@@ -1,0 +1,26 @@
+{
+  "session": {
+    "users": [
+      {
+        "type": "casa",
+        "qtd": 2
+      },
+      {
+        "type": "fogo",
+        "qtd": 4
+      },
+      {
+        "type": "tripa",
+        "qtd": 1
+      },
+      {
+        "type": "mane",
+        "qtd": 9
+      },
+      {
+        "type": "grossa",
+        "qtd": 5
+      }
+    ]
+  }
+}
